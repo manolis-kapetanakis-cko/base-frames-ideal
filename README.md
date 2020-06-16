@@ -1,2 +1,2 @@
-# base-checkoutJS
-Created with CodeSandbox
+# base
+CKO Frames with iDeal integration
